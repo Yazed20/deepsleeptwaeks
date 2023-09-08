@@ -10,6 +10,7 @@ Prerequisites
 
 Before using this script, make sure you have the following prerequisites:
 
+TESTED ON LOS ANDROID 13
 A rooted Android device with Magisk installed (for system-level tweaks).
 A compatible Android device and ROM. Note that some tweaks may vary in effectiveness based on device models and Android versions.
 A file manager app with root access to edit system files.
