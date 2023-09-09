@@ -8,12 +8,11 @@ Enables or disables specific device features to reduce power consumption.
 Enhances the overall efficiency of your Android device.
 Prerequisites
 
+
 Before using this script, make sure you have the following prerequisites:
 
-TESTED ON LOS ANDROID 13
-A rooted Android device with Magisk installed (for system-level tweaks).
-A compatible Android device and ROM. Note that some tweaks may vary in effectiveness based on device models and Android versions.
-A file manager app with root access to edit system files.
+ANDROID 9+
+magisk 24+
 
 
 
@@ -22,18 +21,6 @@ Usage
 Just flash in magisk and forget
 
 
-Contributing
-Contributions are welcome! If you have suggestions, improvements, or additional power-saving tweaks that you would like to contribute, please fork this repository and create a pull request with your changes.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-
-
-
-Title: Deep Sleep and Power Optimization Tweaks
 
 Description:
 This Magisk module applies a collection of tweaks designed to optimize your Android device's power management, enhance deep sleep, and improve overall performance and battery life. These tweaks are carefully selected to help you achieve better control over background processes, screen behavior, and system settings.
