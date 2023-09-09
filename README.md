@@ -27,3 +27,33 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+
+
+Title: Deep Sleep and Power Optimization Tweaks
+
+Description:
+This Magisk module applies a collection of tweaks designed to optimize your Android device's power management, enhance deep sleep, and improve overall performance and battery life. These tweaks are carefully selected to help you achieve better control over background processes, screen behavior, and system settings.
+
+Features:
+1. Disable unnecessary background services and features to reduce power consumption.
+2. Fine-tune screen behavior to optimize battery life during idle periods.
+3. Enhance deep sleep mode for more efficient power management.
+4. Configure animation scales for a smoother user interface experience.
+5. Implement aggressive doze mode for extended battery savings.
+6. Optimize alarms for better power efficiency.
+7. Customize various system settings to suit your preferences.
+
+Please note:
+- These tweaks are designed to work on rooted devices with Magisk.
+- Carefully review and apply these tweaks, as their effectiveness may vary depending on your device and Android version.
+- Test each tweak individually to ensure it meets your requirements without causing any issues.
+
+Disclaimer:
+The application of these tweaks may impact your device's performance and behavior. Use them at your own discretion and risk. The developer is not responsible for any adverse effects or issues that may arise from applying these tweaks.
+
+
+
