@@ -32,7 +32,7 @@ Features:
 4. Configure animation scales for a smoother user interface experience.
 5. Implement aggressive doze mode for extended battery savings.
 6. Optimize alarms for better power efficiency.
-7. Customize various system settings to suit your preferences.
+
 
 Please note:
 - These tweaks are designed to work on rooted devices with Magisk.
