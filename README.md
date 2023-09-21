@@ -37,7 +37,7 @@ Features:
 Please note:
 - These tweaks are designed to work on rooted devices with Magisk.
 - Carefully review and apply these tweaks, as their effectiveness may vary depending on your device and Android version.
-- Test each tweak individually to ensure it meets your requirements without causing any issues.
+.
 
 Disclaimer:
 The application of these tweaks may impact your device's performance and behavior. Use them at your own discretion and risk. The developer is not responsible for any adverse effects or issues that may arise from applying these tweaks.
